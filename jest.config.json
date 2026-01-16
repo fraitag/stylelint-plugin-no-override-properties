@@ -1,0 +1,15 @@
+{
+  "testEnvironment": "node",
+  "transform": {},
+  "testMatch": ["**/*.test.js"],
+  "collectCoverageFrom": [
+    "stylelint-plugin-no-overriding-properties.js"
+  ],
+  "coveragePathIgnorePatterns": [
+    "/node_modules/",
+    "sass-lint-plugin-no-overriding-properties.js"
+  ],
+  "transformIgnorePatterns": [
+    "node_modules/(?!(stylelint)/)"
+  ]
+}

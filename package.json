@@ -1,0 +1,46 @@
+{
+  "name": "stylelint-plugin-no-override-properties",
+  "version": "1.0.0",
+  "description": "Stylelint plugin to detect CSS property overriding in nested selectors",
+  "type": "module",
+  "main": "stylelint-plugin-no-overriding-properties.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watch",
+    "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "scss",
+    "sass",
+    "css",
+    "linter",
+    "plugin",
+    "override",
+    "properties",
+    "nested-selectors"
+  ],
+  "author": "Krzysztof Piątek",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/stylelint-plugin-no-override-properties.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/stylelint-plugin-no-override-properties/issues"
+  },
+  "homepage": "https://github.com/yourusername/stylelint-plugin-no-override-properties#readme",
+  "peerDependencies": {
+    "stylelint": "^14.0.0 || ^15.0.0 || ^16.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "postcss": "^8.5.6",
+    "postcss-scss": "^4.0.9",
+    "stylelint": "^16.26.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

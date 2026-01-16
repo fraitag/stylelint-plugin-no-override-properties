@@ -1,0 +1,29 @@
+# Test files
+*.test.js
+coverage/
+.nyc_output/
+
+# Development files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# CI files
+.github/
+.travis.yml
+.circleci/
+
+# Documentation (optional - uncomment to exclude)
+# CONTRIBUTING.md
+# EXAMPLES.md
+
+# OS files
+.DS_Store
+Thumbs.db
