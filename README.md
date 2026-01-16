@@ -312,7 +312,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for det
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/stylelint-plugin-no-override-properties.git
+git clone https://github.com/fraitag/stylelint-plugin-no-override-properties.git
 cd stylelint-plugin-no-override-properties
 
 # Install dependencies
@@ -349,6 +349,6 @@ MIT © Krzysztof Piątek
 
 ## 🐛 Issues & Support
 
-- [Report bugs](https://github.com/yourusername/stylelint-plugin-no-override-properties/issues)
-- [Request features](https://github.com/yourusername/stylelint-plugin-no-override-properties/issues)
-- [Ask questions](https://github.com/yourusername/stylelint-plugin-no-override-properties/discussions)
+- [Report bugs](https://github.com/fraitag/stylelint-plugin-no-override-properties/issues)
+- [Request features](https://github.com/fraitag/stylelint-plugin-no-override-properties/issues)
+- [Ask questions](https://github.com/fraitag/stylelint-plugin-no-override-properties/discussions)

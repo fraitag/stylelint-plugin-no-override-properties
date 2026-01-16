@@ -53,4 +53,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-[1.0.0]: https://github.com/yourusername/stylelint-plugin-no-override-properties/releases/tag/v1.0.0
+[1.0.0]: https://github.com/fraitag/stylelint-plugin-no-override-properties/releases/tag/v1.0.0

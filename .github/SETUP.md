@@ -240,7 +240,7 @@ Settings → Notifications → Actions → Configure
 ### Add Status Badges to README
 Already added! Update username in README.md:
 ```markdown
-[![CI](https://github.com/YOURUSERNAME/stylelint-plugin-no-override-properties/workflows/CI/badge.svg)]
+[![CI](https://github.com/fraitag/stylelint-plugin-no-override-properties/workflows/CI/badge.svg)]
 ```
 
 ---

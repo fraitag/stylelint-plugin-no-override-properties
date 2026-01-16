@@ -14,7 +14,7 @@ This directory contains GitHub Actions workflows for automated CI/CD, testing, a
 
 **Status Badge:**
 ```markdown
-[![CI](https://github.com/yourusername/stylelint-plugin-no-override-properties/workflows/CI/badge.svg)](https://github.com/yourusername/stylelint-plugin-no-override-properties/actions)
+[![CI](https://github.com/fraitag/stylelint-plugin-no-override-properties/workflows/CI/badge.svg)](https://github.com/fraitag/stylelint-plugin-no-override-properties/actions)
 ```
 
 ---
@@ -208,9 +208,9 @@ updates:
 Add these to your README.md:
 
 ```markdown
-[![CI](https://github.com/yourusername/stylelint-plugin-no-override-properties/workflows/CI/badge.svg)](https://github.com/yourusername/stylelint-plugin-no-override-properties/actions/workflows/ci.yml)
+[![CI](https://github.com/fraitag/stylelint-plugin-no-override-properties/workflows/CI/badge.svg)](https://github.com/fraitag/stylelint-plugin-no-override-properties/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/stylelint-plugin-no-override-properties.svg)](https://www.npmjs.com/package/stylelint-plugin-no-override-properties)
-[![codecov](https://codecov.io/gh/yourusername/stylelint-plugin-no-override-properties/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/stylelint-plugin-no-override-properties)
+[![codecov](https://codecov.io/gh/fraitag/stylelint-plugin-no-override-properties/branch/main/graph/badge.svg)](https://codecov.io/gh/fraitag/stylelint-plugin-no-override-properties)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ```
 

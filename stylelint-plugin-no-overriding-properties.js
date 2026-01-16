@@ -7,7 +7,7 @@ const messages = stylelint.utils.ruleMessages(ruleName, {
 });
 
 const meta = {
-  url: 'https://github.com/your-org/stylelint-plugin-no-overriding-properties',
+  url: 'https://github.com/fraitag/stylelint-plugin-no-override-properties',
 };
 
 /**
