@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/stylelint-plugin-no-override-properties.git"
+    "url": "https://github.com/fraitag/stylelint-plugin-no-override-properties.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/stylelint-plugin-no-override-properties/issues"
+    "url": "https://github.com/fraitag/stylelint-plugin-no-override-properties/issues"
   },
-  "homepage": "https://github.com/yourusername/stylelint-plugin-no-override-properties#readme",
+  "homepage": "https://github.com/fraitag/stylelint-plugin-no-override-properties#readme",
   "peerDependencies": {
     "stylelint": "^14.0.0 || ^15.0.0 || ^16.0.0"
   },

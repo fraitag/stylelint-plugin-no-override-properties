@@ -1,7 +1,7 @@
 # Stylelint Plugin: No Override Properties
 
 [![npm version](https://img.shields.io/npm/v/stylelint-plugin-no-override-properties.svg)](https://www.npmjs.com/package/stylelint-plugin-no-override-properties)
-[![CI](https://github.com/yourusername/stylelint-plugin-no-override-properties/workflows/CI/badge.svg)](https://github.com/yourusername/stylelint-plugin-no-override-properties/actions/workflows/ci.yml)
+[![CI](https://github.com/fraitag/stylelint-plugin-no-override-properties/workflows/CI/badge.svg)](https://github.com/fraitag/stylelint-plugin-no-override-properties/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Stylelint plugin that detects CSS property overriding in nested selectors (SCSS/Sass/Less). Helps maintain cleaner, more maintainable stylesheets by catching unintentional property overrides.
